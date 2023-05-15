@@ -7,9 +7,9 @@
 5.  aws s3 ls s3://osm-pds/2023/
 6.  aws s3 ls s3://amazon-reviews-pds/parquet/
 7.  aws s3 ls s3://awssampledbuswest2/ <br/>
-                           PRE load/ <br/>
-                           PRE nested_example/ <br/>
-                           PRE resize/ <br/>
-                           PRE restorelineorder/ <br/>
-                           PRE ssbgz/ <br/>
-                           PRE tickit/ <br/>
+                            load/ <br/>
+                            nested_example/ <br/>
+                            resize/ <br/>
+                            restorelineorder/ <br/>
+                            ssbgz/ <br/>
+                            tickit/ <br/>
